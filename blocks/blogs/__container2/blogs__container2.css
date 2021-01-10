@@ -1,0 +1,8 @@
+.blogs__container2{
+    display: flex;
+    justify-content: space-between;
+    width: 1170px;
+    margin: 40px auto 80px;
+    padding: 0;
+    list-style: none;
+}

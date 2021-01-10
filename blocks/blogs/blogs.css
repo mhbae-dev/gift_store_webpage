@@ -2,6 +2,8 @@
 @import url(./__subtitle/blogs__subtitle.css);
 @import url(./__container-zone/blogs__container-zone.css);
 @import url(./__container1/blogs__container1.css);
+@import url(./__container1-textarea/blogs__container1-textarea.css);
+@import url(./__image/blogs__image.css);
 @import url(./__container1-title/blogs__container1-title.css);
 @import url(./__container1-subtitle/blogs__container1-subtitle.css);
 @import url(./__link/blogs__link.css);

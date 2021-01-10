@@ -1,1 +1,7 @@
-@import url();
+.blogs__title{
+    text-align: center;
+    font-size: 32px;
+    line-height: 38px;
+    margin: 88px 0 23px;
+    padding: 0;
+}
