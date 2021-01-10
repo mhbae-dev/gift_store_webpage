@@ -1,0 +1,12 @@
+.navbar__button{
+    border: 1px solid #F7941E;
+    background: transparent;
+    color: #F7941E;
+    border-radius: 5px;
+    width: 140px;
+    height: 44px;
+    font-family: 'Khula', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+}

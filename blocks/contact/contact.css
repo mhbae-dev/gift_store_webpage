@@ -3,3 +3,10 @@
 @import url(./__subtitle/contact__subtitle.css);
 @import url(./__button1/contact__button1.css);
 @import url(./__button2/contact__button2.css);
+
+.contact{
+    display: flex;
+    
+    height: 240px;
+    background: #F7941E;
+}

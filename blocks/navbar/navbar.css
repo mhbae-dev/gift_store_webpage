@@ -1,4 +1,14 @@
 @import url(./__button/navbar__button.css);
 @import url(./__link/navbar__link.css);
-@import url(./__links/navbar__links.css);
+@import url(./__list/navbar__list.css);
+@import url(./__list-item/navbar__list-item.css);
 @import url(./__logo/navbar__logo.css);
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    height: 116px;
+    width: 90%;
+}

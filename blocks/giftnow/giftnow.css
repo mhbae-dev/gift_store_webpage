@@ -3,3 +3,10 @@
 @import url(./__main-text/giftnow__main-text.css);
 @import url(./__button/giftnow__button.css);
 @import url(./__image/giftnow__image.css);
+
+.giftnow{
+    height: 700px;
+    display: flex;
+    position: relative;
+    background: #f1f1f2;
+}

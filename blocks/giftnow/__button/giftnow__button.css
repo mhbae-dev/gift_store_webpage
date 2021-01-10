@@ -1,0 +1,11 @@
+.giftnow__button{
+    text-transform: uppercase;
+    color: white;
+    background: #F7941E;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 22px;
+    width: 200px;
+    height: 60px;
+}

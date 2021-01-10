@@ -3,3 +3,10 @@
 @import url(./__title/work__title.css);
 @import url(./__main-text/work__main-text.css);
 @import url(./__button/work__button.css);
+
+.work{
+    display: flex;
+    position: relative;
+    background-color: #f1f1f2;
+    height: 600px;
+}
