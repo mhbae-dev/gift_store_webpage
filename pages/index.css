@@ -1,8 +1,9 @@
-@import url(/blocks/page/page.css);
-@import url(/blocks/navbar/navbar.css);
-@import url(/blocks/giftnow/giftnow.css);
-@import url(/blocks/work/work.css);
-@import url(/blocks/gift/gift.css);
-@import url(/blocks/contact/contact.css);
-@import url(/blocks/blogs/blogs.css);
-@import url(/blocks/footer/footer.css);
+@import url(../vendor/normalise.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/navbar/navbar.css);
+@import url(../blocks/giftnow/giftnow.css);
+@import url(../blocks/work/work.css);
+@import url(../blocks/gift/gift.css);
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/blogs/blogs.css);
+@import url(../blocks/footer/footer.css);
